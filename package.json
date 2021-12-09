@@ -76,5 +76,14 @@
     "vue": "2.6.12",
     "vue-server-renderer": "2.6.12",
     "vue-template-compiler": "2.6.12"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmnvisuals/awake-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nmnvisuals/awake-template/issues"
+  },
+  "homepage": "https://github.com/nmnvisuals/awake-template#readme"
 }
